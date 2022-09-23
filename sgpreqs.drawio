@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T12:54:39.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NYCBMyv97cmOs1_44v2g" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T14:41:50.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gjffj7XoWwFMa9brtEtt" version="20.3.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1653" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3306" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-4" value="TMOS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-5" value="AMR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-6" value="COBOTS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-7" value="IOT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-8" value="TABLETS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-9" value="COBOTS CONTROLER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="860" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-15" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-16" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="650" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qvEiRLsKLe_XJbmpoSon-17" value="WAF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
